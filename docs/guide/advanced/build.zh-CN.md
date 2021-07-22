@@ -131,6 +131,7 @@ yarn add babel-plugin-import --dev
         "libraryDirectory": "lib",
         "style": true
       }
+      'antd'
     ],
     [
       "import",
@@ -138,7 +139,8 @@ yarn add babel-plugin-import --dev
         "libraryName": "@formily/antd",
         "libraryDirectory": "lib",
         "style": true
-      }
+      },
+      '@formily/antd'
     ]
   ]
 }
